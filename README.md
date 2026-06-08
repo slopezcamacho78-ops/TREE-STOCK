@@ -70,7 +70,10 @@ Opción: 2
 ```
 
 ## Capturas de Pantalla
-> (Agregar capturas aquí)
+>(
+<img width="439" height="218" alt="Insercion" src="https://github.com/user-attachments/assets/b02caac8-71ca-4c31-8771-d714d5da5774" />
+<img width="430" height="164" alt="Busqueda" src="https://github.com/user-attachments/assets/0354ff3f-6fee-4d71-8ce6-10c9324f7feb" />
+)
 
 ## Video de Sustentación
-> [Enlace al video aquí]
+> []
